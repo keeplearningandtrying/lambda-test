@@ -13,7 +13,7 @@ public class Main23 {
 	    
 	    
 	    String z = "Hello"; 
-	    Function<String,String> func2 = y -> {return y + " "+ x ;};
+	    Function<String,String> func2 = y -> {return y + " "+ z ;};
 	    System.out.println(func2.apply("java2s.com"));
 
 	    

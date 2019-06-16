@@ -1,7 +1,6 @@
 package com.java2s.example.function;
 
 import java.util.function.BiConsumer;
-import java.util.function.BiFunction;
 
 public class Main1 {
 
